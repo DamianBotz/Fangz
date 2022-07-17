@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">FangzBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/Fangzbotz2007"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+🥶;Follow+Github+DamianBotz+Dan+Subscribe+FangzBot" alt="UwU">
+  <a href="https://github.com/Fangzbotz2007"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+🥶;Follow+Subscribe+FangzBot" alt="UwU">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <a href="https://github.com/Fangzbotz2007/FangzBOT-MDpulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fangzbotz2007/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+## ```Connect With Fangz 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6288215689772">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
