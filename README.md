@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/7ff09176639655a9fb919.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/bce7fcb879bab7f5ffdf3.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">FangzBOT - MD</h1>
 <p align="center">
@@ -80,7 +80,7 @@
 ## ```Heroku Buildpack```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
 
-| BuildPack | LINK |
+| 📦BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
@@ -92,8 +92,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-$ cd FangzBOT-MD-master
+$ git clone https://github.com/DamianBotz/Fangz
+$ cd Fangz
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -135,8 +135,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/DamianBotz/Fangz
+cd Fangz
 npm install
 npm update
 ```
@@ -151,8 +151,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/DamianBotz/Fangz
+cd Fangz
 npm install
 npm update
 ```
@@ -238,6 +238,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 4. Jangan salah gunakan script ini!
 5. Jangan lupa Subscribe Youtube
 6. Jika ada eror di sc hub Fangz
+7. Damian hanya bantu up ke github doang :v
 
 ---------
 
@@ -252,7 +253,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
-## ```Recode By 💌```
+## ```Recode By ⭐```
 [![Fangz BOT](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/Fangzbotz2007)
 
 ## ```Contributor 📣```
@@ -260,3 +261,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`AmirulDev20`](https://github.com/amiruldev20)
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
+* [`Damian`](https://github.com/DamianBotz)
