@@ -43,7 +43,7 @@
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
 ---------
 
-#### KELEBIHAN 📍
+#### KELEBIHAN 📮
 | Kelebihan | Check |
 |--------|--------|
 | **Fast Respon** |[✔️](https://github.com/Fangzbotz2007) |
@@ -52,7 +52,7 @@
 | **Button template** |[✔️](https://github.com/Fangzbotz2007) |
 | **Multi Device** |[✔️](https://github.com/Fangzbotz2007) |
 ---------
-#### FITUR 📍
+#### FITUR 📮
 | Fitur | Check |
 |--------|--------|
 | **Downloader** |[✔️](https://github.com/Fangzbotz2007) |
@@ -78,7 +78,7 @@
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DamianBotz/Fangz)
 
 | 📦BuildPack | LINK |
 |--------|--------|
